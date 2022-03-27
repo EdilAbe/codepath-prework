@@ -46,7 +46,7 @@ https://www.w3schools.com/colors/colors_names.asp  and Stackoverflow
 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-This project was a bit challenging for me because I’ve only had little experience working with HTML, CSS, and JavaScript. For the most part of the project I used the referenced sites and read through the dropdown tabs and made sure I understood the code with the help of W3schools and YouTube. At last, I tried writing the logic on my own but failed multiple times. Although, I couldn’t implement it on my own, I took the time to properly understand the coding and logic behind the game. Overall, it was a great learning opportunity, and I am interested in learning much more.
+This project was a bit challenging for me because I’ve only had little experience working with HTML, CSS, and JavaScript. For the most part of the project I used the referenced sites and read through the dropdown tabs and made sure I understood the code with the help of W3schools and YouTube. At last, I tried writing the logic on my own but failed multiple times. Although, I couldn’t implement it on my own, I took the time to properly understand the coding and logic behind the game. Overall, it was a great learning opportunity, and I am excited to learning more.
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 How to build a project that includes a multiple webpage?
 How to add security layers to website?
@@ -54,7 +54,7 @@ What differences are there in developing mobile platforms and desktop platforms?
 Finally, how to optimize our website? 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-If I had more time and experience with JavaScript, I would add multiple tiers to the game, with each round allowing the player to unlock the next tier. In the "beginning" level, the player would have three attempts and six buttons. With each step, though, the number of attempts will decrease. Then I'd add a timer, change the game speed, and add additional buttons to each level to make it more difficult. I'd also include a clapping sound when a player completes a stage and a fainting sound when a player fails to make the game more engaging. To spice things up, I'd change the frequency map and rearrange the game's pattern to make it sound more like real instruments.
+If I had more time and experience with JavaScript, I would add multiple tiers to the game, with each round allowing the player to unlock the next tier. In the "beginning" level, the player would have three attempts and six buttons with each step, though, the number of attempts will decrease. I'd refactor the code to add a timer, change the game speed, and add additional buttons to each level to make it more difficult. I'd also include a clapping sound when a player completes a stage and a fainting sound when a player fails to make the game more engaging. To spice things up, I'd change the frequency map and rearrange the game's pattern to make it sound more like real instruments.
 
 
 ## Interview Recording URL Link
