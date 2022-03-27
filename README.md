@@ -46,7 +46,7 @@ https://www.w3schools.com/colors/colors_names.asp  and Stackoverflow
 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-This project was a bit challenging for me because I’ve only had little experience working with HTML, CSS, and JavaScript. For the most part of the project I used the referenced sites and read through the dropdown tabs and made sure I understood the code with the help of W3schools and YouTube. At last, I tried writing the logic on my own but failed multiple times. Although, I couldn’t implement it on my own, I took the time to properly understand the coding and logic behind the game. Overall, it was a great learning opportunity, and I am excited to learning more.
+This project was a bit challenging for me because I’ve only had little experience working with HTML, CSS, and JavaScript. For the most part of the project I used the referenced sites and read through the dropdown tabs and made sure I understood the code with the help of W3schools and YouTube. At last, I tried writing the logic on my own but failed multiple times. Although, I couldn’t implement it on my own, I took the time to properly understand the coding and logic behind the game. Overall, it was a great learning opportunity, and I am excited to learn more.
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 How to build a project that includes a multiple webpage?
 How to add security layers to website?
